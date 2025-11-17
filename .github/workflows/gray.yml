@@ -11,7 +11,7 @@ on:
       - 'v*.*'
 
 env:
-  DOCKER_IMAGE_NAME: bki0402/gray:1.0
+  DOCKER_IMAGE_NAME: bki0402/gray:lastest
 
 jobs:
   build-and-push:
